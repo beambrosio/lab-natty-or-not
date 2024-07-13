@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mulher Programadora
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto utilizando o seguinte site canva.com, e a imagem foi hospetada no site: imgur.com. Foi
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ - Site Canva que utilizana Dall-e 3 como modelo de IA parar gerar as imagens
+ - Site Imgur para fazer upload da imagem e colocar no projeto 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descrevi à IA uma mulher programando uma IA em uma empresa, então o site do Canva me gerou 4 imagens com essas descrições, a imagem que selecionei para o projeto foi a mais representativa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![](https://imgur.com/a/XjL8dm5)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito interessante ver como as IAs consegue gerar imagens tão rapidamente, e com variedades diferente utilizando a mesma ideia. Fico pensando como estaremos usando IA daqui uns 10 anos...
 ```
 
 ### Exemplos e Insigths
