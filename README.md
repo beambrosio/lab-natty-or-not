@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+
 # Mulher Programadora
 
 ## 📒 Descrição
@@ -37,7 +37,7 @@ Descrevi à IA uma mulher programando uma IA em uma empresa, então o site do Ca
 
 ## 💭 Reflexão (Opcional)
 Muito interessante ver como as IAs consegue gerar imagens tão rapidamente, e com variedades diferente utilizando a mesma ideia. Fico pensando como estaremos usando IA daqui uns 10 anos...
-```
+
 
 ### Exemplos e Insigths
 
