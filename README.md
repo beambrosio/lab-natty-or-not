@@ -33,7 +33,7 @@ Projeto utilizando o seguinte site canva.com, e a imagem foi hospetada no site: 
 Descrevi à IA uma mulher programando uma IA em uma empresa, então o site do Canva me gerou 4 imagens com essas descrições, a imagem que selecionei para o projeto foi a mais representativa.
 
 ## 🚀 Resultados
-![] (https://i.imgur.com/xCLjGVe.png)
+![] ([https://i.imgur.com/xCLjGVe.png](https://imgur.com/a/XjL8dm5))
 
 ## 💭 Reflexão (Opcional)
 Muito interessante ver como as IAs consegue gerar imagens tão rapidamente, e com variedades diferente utilizando a mesma ideia. Fico pensando como estaremos usando IA daqui uns 10 anos...
